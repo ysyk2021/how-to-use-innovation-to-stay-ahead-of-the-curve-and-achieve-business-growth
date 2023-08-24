@@ -1,5 +1,3 @@
-Seeking Input from Employees and Stakeholders
-==================================================================================================
 
 Seeking input from employees and stakeholders can be a valuable strategy for identifying opportunities for innovation. In this chapter, we will explore strategies for seeking input from employees and stakeholders to drive innovation.
 

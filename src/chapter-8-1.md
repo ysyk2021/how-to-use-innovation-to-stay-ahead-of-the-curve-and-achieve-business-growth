@@ -1,5 +1,3 @@
-The Role of Leadership in Supporting Innovation
-==============================================================================
 
 Innovation is a key driver of business growth, but it requires strong leadership support to be successful. In this chapter, we will explore the role of leadership in supporting innovation initiatives.
 

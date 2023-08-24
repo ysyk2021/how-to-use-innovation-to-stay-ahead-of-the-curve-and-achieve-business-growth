@@ -1,5 +1,3 @@
-Providing Resources for Idea Generation and Experimentation
-========================================================================================================
 
 Innovation requires a workplace environment that fosters creativity and experimentation. In this chapter, we will explore strategies for providing resources for idea generation and experimentation to build a culture of innovation.
 

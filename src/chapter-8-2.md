@@ -1,5 +1,3 @@
-Modeling Innovative Behaviors and Attitudes
-==========================================================================
 
 Leadership support is critical for driving innovation within an organization, but it goes beyond just setting a clear vision and providing resources. Leaders must also model innovative behaviors and attitudes to create a culture of innovation. In this chapter, we will explore strategies for modeling innovative behaviors and attitudes within an organization.
 

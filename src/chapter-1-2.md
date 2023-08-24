@@ -1,5 +1,3 @@
-Overview of Innovation in Business
-================================================
 
 Innovation is critical to achieving business growth and staying ahead of the curve in today's rapidly changing marketplace. In this book, we will explore strategies for leveraging innovation to drive success in business.
 

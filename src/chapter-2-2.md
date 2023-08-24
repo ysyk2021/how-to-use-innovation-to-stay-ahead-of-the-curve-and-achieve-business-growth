@@ -1,5 +1,3 @@
-The Benefits of Innovation in Business
-==================================================================================
 
 Innovation is the lifeblood of business growth and success. In this chapter, we will define innovation in business and explore the benefits it can bring.
 

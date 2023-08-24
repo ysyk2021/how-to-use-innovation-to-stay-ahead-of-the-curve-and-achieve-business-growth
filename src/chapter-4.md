@@ -1,5 +1,3 @@
-Chapter 3: Building a Culture of Innovation
-===========================================
 
 Building a culture of innovation is essential for staying ahead of the curve and achieving business growth. In this chapter, we will discuss how to encourage creativity and risk-taking, provide resources for idea generation and experimentation, and celebrate and reward innovation.
 

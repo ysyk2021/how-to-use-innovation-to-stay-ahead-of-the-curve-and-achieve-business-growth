@@ -1,5 +1,3 @@
-Encouraging Creativity and Risk-Taking
-===================================================================================
 
 Building a culture of innovation is essential for driving business growth. In this chapter, we will explore strategies for building a culture of innovation that encourages creativity and risk-taking.
 

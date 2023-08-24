@@ -1,5 +1,3 @@
-Developing a Process for Testing and Implementing New Ideas
-===========================================================================================================
 
 Developing innovative ideas is just the first step in driving business growth. In order to achieve success, businesses must also have a process in place for testing and implementing those ideas at scale. In this chapter, we will explore strategies for developing a process for testing and implementing new ideas.
 

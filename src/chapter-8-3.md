@@ -1,5 +1,3 @@
-Addressing Challenges and Setbacks
-=================================================================
 
 Innovation is not always a smooth process. Challenges and setbacks are inevitable, but effective leadership support can help navigate these obstacles and keep innovation initiatives on track. In this chapter, we will explore the role of leadership in supporting innovation and strategies for addressing challenges and setbacks.
 

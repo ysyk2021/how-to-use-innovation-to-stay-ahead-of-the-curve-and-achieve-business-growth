@@ -1,5 +1,3 @@
-Fostering Collaboration with External Partners
-===================================================================================================
 
 Fostering collaboration with external partners can be a valuable strategy for identifying opportunities for innovation. In this chapter, we will explore strategies for fostering collaboration with external partners to drive innovation.
 

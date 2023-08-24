@@ -1,5 +1,3 @@
-Chapter 7: Leadership Support
-=============================
 
 Leadership support is essential for fostering a culture of innovation within an organization. In this chapter, we will discuss the role of leadership in supporting innovation, modeling innovative behaviors and attitudes, and addressing challenges and setbacks.
 

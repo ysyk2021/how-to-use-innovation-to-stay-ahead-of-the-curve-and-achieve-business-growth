@@ -1,5 +1,3 @@
-Measuring the Impact of Innovation on Business Growth
-=====================================================================================================
 
 Implementing and scaling innovation is essential for staying ahead of the curve and achieving business growth. In this chapter, we will discuss how to measure the impact of innovation on business growth.
 

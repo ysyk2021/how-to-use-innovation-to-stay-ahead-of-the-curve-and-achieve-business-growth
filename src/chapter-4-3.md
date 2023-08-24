@@ -1,5 +1,3 @@
-Celebrating and Rewarding Innovation
-=================================================================================
 
 Celebrating and rewarding innovation is essential for building a culture of innovation within an organization. In this chapter, we will discuss the importance of celebrating and rewarding innovation, ways to recognize innovative employees, and how to create incentives for innovation.
 

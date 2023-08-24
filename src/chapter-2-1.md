@@ -1,5 +1,3 @@
-What is Innovation?
-===============================================================
 
 Innovation is a term that is often used in business, but what does it really mean? In this chapter, we will define innovation and explore its different forms.
 
@@ -32,5 +30,4 @@ Conclusion
 ----------
 
 Innovation refers to the process of creating new or improved products, services, processes, or business models that provide value to customers and drive business growth. It can take many different forms, including product innovation, service innovation, process innovation, and business model innovation. Innovation is critical for achieving business growth and success, and a commitment to innovation is essential for driving long-term success.
-
 

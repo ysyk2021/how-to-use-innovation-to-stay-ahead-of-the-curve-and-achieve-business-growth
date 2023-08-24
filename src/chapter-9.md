@@ -1,5 +1,3 @@
-Chapter 8: Future Directions
-============================
 
 Innovation is constantly evolving, and it is essential for organizations to stay ahead of the curve in order to achieve business growth. In this chapter, we will explore future directions for innovation in business.
 

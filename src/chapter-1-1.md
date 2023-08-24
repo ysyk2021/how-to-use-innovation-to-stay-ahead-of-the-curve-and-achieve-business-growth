@@ -1,5 +1,3 @@
-Purpose of the Book
-=================================
 
 Innovation is the key to staying ahead of the curve and achieving business growth. In today's rapidly changing marketplace, organizations that fail to innovate risk being left behind. However, implementing innovation strategies can be challenging.
 
