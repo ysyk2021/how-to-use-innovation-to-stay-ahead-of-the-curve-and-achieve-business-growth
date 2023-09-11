@@ -1,5 +1,4 @@
-Chapter 5: The Role of Leadership in Supporting Innovation
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In any organization striving to leverage innovation to stay ahead of the curve and achieve business growth, the role of leadership is pivotal. Effective leaders not only set the vision but also create an environment that fosters innovation at every level. In this chapter, we will explore the multifaceted role that leadership plays in supporting innovation initiatives.
 

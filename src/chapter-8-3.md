@@ -1,5 +1,4 @@
-Chapter 11: Addressing Challenges and Setbacks
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey of leveraging innovation to stay ahead of the curve and achieve business growth, challenges and setbacks are inevitable. However, it's how an organization responds to these obstacles that often determines its success. In this chapter, we will explore strategies and insights for effectively addressing challenges and setbacks on your innovation-driven path.
 

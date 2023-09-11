@@ -1,5 +1,4 @@
-Chapter 5: Developing a Process for Testing and Implementing New Ideas
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Innovation is not just about generating ideas; it's about effectively testing and implementing those ideas to drive business growth. This chapter explores the importance of establishing a structured process for testing and implementing new ideas.
 

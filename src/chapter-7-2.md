@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Barriers to Effective Implementation
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Innovation holds the promise of business growth and staying ahead of the competition. However, the journey from ideation to successful implementation can be fraught with challenges and barriers. In this chapter, we will explore common obstacles that organizations face in the implementation of innovative ideas and strategies, and we will provide insights on how to overcome them.
 

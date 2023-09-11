@@ -1,5 +1,4 @@
-Chapter 4: Providing Resources for Idea Generation and Experimentation
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To foster innovation and stay ahead of the curve in today's competitive business landscape, it's crucial to allocate the necessary resources for idea generation and experimentation. In this chapter, we will explore the significance of resource allocation and strategies for effectively supporting innovation within your organization.
 

@@ -1,5 +1,4 @@
-Chapter 8: Modeling Innovative Behaviors and Attitudes
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Innovation is not solely about adopting new technologies or processes; it's also about fostering a culture that encourages innovative behaviors and attitudes among individuals and teams. In this chapter, we will delve into the essential elements of modeling innovative behaviors and attitudes within your organization.
 

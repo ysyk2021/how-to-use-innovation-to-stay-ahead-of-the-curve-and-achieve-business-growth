@@ -1,5 +1,4 @@
-Chapter 6: Scaling Successful Innovations
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Innovation is not just about generating new ideas; it's also about effectively implementing and scaling those ideas to achieve sustainable business growth. This chapter explores the essential strategies and considerations for scaling successful innovations within your organization.
 

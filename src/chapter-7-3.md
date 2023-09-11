@@ -1,5 +1,4 @@
-Chapter 5: Measuring the Effectiveness of Innovation Strategies
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Innovation is a critical driver of business growth and staying competitive in today's rapidly evolving market. To ensure that your innovation efforts are yielding the desired results, it's essential to measure their effectiveness. In this chapter, we will explore various methods and key metrics for evaluating the impact of your innovation strategies.
 

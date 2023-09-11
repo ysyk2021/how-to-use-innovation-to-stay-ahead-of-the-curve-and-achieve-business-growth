@@ -1,5 +1,4 @@
-Chapter 4: Encouraging Creativity and Risk-Taking
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Innovation thrives in environments that foster creativity and embrace calculated risk-taking. This chapter explores the importance of nurturing a culture that encourages your team to think creatively and take measured risks to drive business growth.
 

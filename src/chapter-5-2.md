@@ -1,5 +1,4 @@
-Chapter 5: Seeking Input from Employees and Stakeholders
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Innovation is not solely the domain of top executives or R\&D teams. It thrives when organizations foster a culture of inclusivity and actively seek input from their employees and stakeholders. In this chapter, we will explore the importance of involving employees and stakeholders in the innovation process and how it can propel organizations ahead of the curve toward sustainable business growth.
 

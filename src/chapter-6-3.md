@@ -1,5 +1,4 @@
-Chapter 7: Measuring the Impact of Innovation on Business Growth
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Innovation is a powerful driver of business growth, but to harness its full potential, you must be able to measure its impact effectively. In this chapter, we explore the methods and key metrics for measuring how innovation contributes to your organization's growth.
 

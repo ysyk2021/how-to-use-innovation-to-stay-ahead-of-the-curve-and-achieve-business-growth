@@ -1,5 +1,4 @@
-Chapter 7: Innovations in Using Innovation to Achieve Business Growth
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of business, innovation itself is continuously evolving. This chapter explores the latest trends and innovations in harnessing the power of innovation to drive business growth.
 

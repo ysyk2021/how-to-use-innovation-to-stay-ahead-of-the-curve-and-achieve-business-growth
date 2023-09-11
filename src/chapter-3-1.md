@@ -1,5 +1,4 @@
-Chapter 6: Understanding the Impact of Innovation on Business Success
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Innovation is a powerful driver of business success. In this chapter, we will explore the profound impact that innovation can have on various aspects of your organization's growth and prosperity.
 

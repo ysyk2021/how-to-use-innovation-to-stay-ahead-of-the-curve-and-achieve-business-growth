@@ -1,5 +1,4 @@
-Chapter 2: Analyzing Industry Trends and Consumer Needs
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the fast-paced world of business, staying ahead of the curve and achieving growth requires a deep understanding of industry trends and consumer needs. This chapter explores the essential steps and strategies for effectively analyzing these critical aspects.
 

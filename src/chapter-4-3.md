@@ -1,5 +1,4 @@
-Chapter 8: Celebrating and Rewarding Innovation
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Recognizing and rewarding innovation is not just a nicety; it's a strategic imperative. In this chapter, we delve into the importance of celebrating and rewarding innovation as a means to foster a culture of continuous improvement and drive business growth.
 
